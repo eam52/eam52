@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**eam52/eam52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi, I'm Ekram! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **About Me** 🌟
+- Computer science student with a passion for innovation.
+- Seeking internships to apply my skills and gain valuable experience.
+- Interested in front-end development, UX design, and unleashing creativity.
+
+🚀 **Current Focus** 🚀
+- Expanding my skills in design and mastering front-end frameworks.
+- Always eager to learn and collaborate on exciting projects.
+- I'm open and looking to collaborate on projects, and more!
+
+
+
+💡 Let's connect and create something cool together! 💡
