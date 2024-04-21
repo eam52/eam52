@@ -1,7 +1,7 @@
 
 
-# 💫 Hi, I'm Ekram!:
-Hi, I'm Ekram! 👋<br><br>🌟 About Me 🌟<br><br>Computer science student with a passion for innovation.<br>Seeking internships to apply my skills and gain valuable experience.<br>Interested in front-end development, UX design, and unleashing creativity.<br>🚀 Current Focus 🚀<br><br>Expanding my skills in design and mastering front-end frameworks.<br>Always eager to learn and collaborate on exciting projects.<br>I'm open and looking to collaborate on projects, and more!<br>💡 Let's connect and create something cool together! 💡
+# 💫 Hi, I'm Ekram 👋!:
+ <br><br>🌟 About Me 🌟<br><br>Computer science student with a passion for innovation.<br>Seeking internships to apply my skills and gain valuable experience.<br>Interested in front-end development, UX design, and unleashing creativity.<br>🚀 Current Focus 🚀<br><br>Expanding my skills in design and mastering front-end frameworks.<br>Always eager to learn and collaborate on exciting projects.<br>I'm open and looking to collaborate on projects, and more!<br>💡 Let's connect and create something cool together! 💡
 
 
 ## 🌐 Socials:
